@@ -3,3 +3,4 @@
 - [x] zap 日志
 - [x] viper
 - [x] 优雅关机
+- [x] mysql
